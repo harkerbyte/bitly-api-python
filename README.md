@@ -3,7 +3,8 @@ bitly API python library
 
 ## Installation
 
-    pip install bitly_api
+    pip uninstall bitly_api -- if you had previously installed the library
+    now clone this :-- https://github.com/shade234sherif/bitly-api-python
 
 ## Run tests
 
