@@ -5,6 +5,17 @@ bitly API python library
 
     pip uninstall bitly_api -- if you had previously installed the library
     now clone this :-- https://github.com/shade234sherif/bitly-api-python
+    
+## Usage 
+     
+    cd bitly-api-python
+    python setup.py
+    python short.py[url]
+    
+## Alternative
+ 
+    check here https://github.com/shade234sherif/bitly-free
+    
 
 ## Run tests
 
