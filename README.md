@@ -30,3 +30,8 @@ To run the tests either export the environment variable or set it up inline befo
 ## API Documentation
 
 http://dev.bitly.com/
+
+## Socials 
+
+* <a href=https://facebook.com/cyberhacks6>Facebook page</a>
+* <a href=https://facebook.com/shade234sherif>Main fb acc</a>
