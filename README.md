@@ -14,7 +14,7 @@ bitly API python library
     
 ## Alternative
  
-    check here https://github.com/shade234sherif/bitly-free
+    check here https://github.com/harkerbyte/bitly-free
     
 
 ## Run tests
