@@ -20,9 +20,9 @@ print("""\033[2;34m
                     \033[2;0m""")
 print("""\033[1;33m
 [+] FRAMEWORK : bitly
-[+] FACEBOOK PROFILE : facebook/shade234sherif
-[+] FACEBOOK PAGE : facebook/cyberhacks6
-[+] FACEBOOK GROUP : facebook/groups/shade234sherif
+[+] FACEBOOK PROFILE : facebook/shadesherif
+[+] FACEBOOK PAGE : facebook/harkerbyte
+[+] FACEBOOK GROUP : facebook/groups/harkerbyte
 \033[2;33m""")
 
 print("""
